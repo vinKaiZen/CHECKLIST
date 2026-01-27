@@ -4536,4 +4536,9 @@ document.addEventListener("DOMContentLoaded", function() {
     firstItem.focus();
   }
 });
+</script>
+<script>
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("./sw.js");
+}
 </script></body></html>
