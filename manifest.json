@@ -1,0 +1,9 @@
+{
+  "name": "A320 Checklist",
+  "short_name": "CHECKLIST",
+  "start_url": "/CHECKLIST/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "landscape"
+}
